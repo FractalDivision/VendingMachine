@@ -1,2 +1,2 @@
 # VendingMachine
-Vending machine in Java
+A simple vending machine in Java.
